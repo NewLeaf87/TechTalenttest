@@ -1,0 +1,67 @@
+h1 {
+			color: red;
+			font-size:50px;
+		}
+		p {
+			font-weight: bold;
+		}
+		#placeholder{
+			color: rgb(21, 22, 21);
+		}
+table {
+	border: 1px solid red;
+}
+th,td{
+	padding:10px, border-width:medium;
+}
+#allmight{
+	
+}
+nav li{
+	display: inline;
+	font-size: 30px;
+	font-family: Times;
+	Margin-right: 30px;
+	font-color: pink;
+	text-decoration: ;
+	text-transform: uppercase;
+	text-decoration: none;
+
+}
+nav a:hover{
+color: green;
+
+}
+nav a:active{
+	color: purple;
+}
+button{
+	background-color: royalblue;
+	color: white;
+	padding: 10px 25px;
+	border: 2px solid black;
+	margin: 20px 20px;
+	display: block;
+}
+button:hover{
+	background-color: red;
+	color: peru;
+}
+.b1{
+	color: yellow;
+	background-color: violet;
+}
+.b2{
+	color: rgb(255, 255, 255);
+	background-color: slateblue;
+}
+.herob{
+	color: steelblue;
+	font-family: fantasy;
+}
+body{
+	background-image: url("https://images6.alphacoders.com/856/856456.png");
+	background-color: grey;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
